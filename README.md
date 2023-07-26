@@ -1,5 +1,5 @@
 # Unfolding Painter
-This is a program to draw periodic path unfoldings. There is a more detailed explanation of its purpose on [my personal website](https://personal.math.ubc.ca/~kjmoore/graphmaker.html).
+This is a program to draw periodic path unfoldings. There is a more detailed explanation of its purpose on [my personal website](https://personal.math.ubc.ca/~kjmoore/painter.html).
 
 Download [JDK 19 or later](http://jdk.java.net/) for your operating system.
 Make sure `JAVA_HOME` is properly set to the JDK installation directory. 
